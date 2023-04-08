@@ -1,5 +1,7 @@
 ### Hi there 👋
-🌱 I’m currently learning Python
+
+I'm currently a Software Engineering student!
+🌱 I’m currently learning Python & Java
 
 
 
